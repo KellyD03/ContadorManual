@@ -1,0 +1,1 @@
+ContadorManual es una aplicacion .Net MAUI que cuenta
