@@ -40,12 +40,12 @@
                    Text="Contar"
                   FontSize="Medium"
                   WidthRequest="130"
-                  Clicked="Button_Clicked_1"/>
+                  Clicked="OnContarButton_Clicked"/>
             <Button
                   Text="Reiniciar"
                   FontSize="Medium"
                   WidthRequest="130"
-                  Clicked="Button_Clicked"/>
+                  Clicked="OnReiniciarButton_Clicked"/>
         </HorizontalStackLayout>
     </Grid>
     <!--<VerticalStackLayout
